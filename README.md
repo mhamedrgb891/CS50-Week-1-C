@@ -1,35 +1,29 @@
-
----
-
-## ✅ `Week2 - Arrays`
-
-```markdown
-# Week 2 – Arrays and Memory Basics 🧮
+# Week 1 – C Programming Foundations 🧠
 
 🎓 Part of **CS50x 2024 – Introduction to Computer Science by Harvard University**
 
 ## 📘 Overview
-This week focused on arrays and how data is stored and accessed in memory. We explored how to work with sequences of data and simple searching and sorting algorithms.
+This week introduced the basics of C programming. Topics included variables, data types, conditions, loops, and the structure of a simple C program.
 
 ## 📚 Topics Covered
-- Arrays in C
-- ASCII values and characters
-- Command-line arguments
-- Searching (Linear, Binary)
-- Sorting (Selection, Bubble)
+- Variables and data types
+- Conditional logic (`if`, `else`, `else if`)
+- Loops (`for`, `while`)
+- Basic input/output using `printf` and `scanf`
 
 ## 💻 Projects
-- ✅ Readability
-- ✅ Caesar Cipher
-- ✅ Substitution Cipher
+- ✅ Mario (less)
+- ✅ Mario (more)
+- ✅ Cash
+- ✅ Credit
 
 ## 🚀 Key Takeaways
-- Learned how to manipulate strings using ASCII and arrays.
-- Practiced implementing encryption and decryption algorithms.
-- Understood how to pass and handle command-line arguments in C.
+- Gained experience in writing, compiling, and debugging C programs.
+- Learned how to use loops and conditions to solve practical problems.
+- Understood how to work with user input and modularize code with functions.
 
 ## 🧠 Challenges
-Handling string encryption required careful index manipulation. Understanding how C treats strings (as arrays of chars) made a big difference.
+The hardest part was implementing the Luhn algorithm in the Credit project. It required careful tracking of digit positions and summation logic, but it greatly improved my attention to detail and understanding of algorithms.
 
 ## ▶️ How to Run
 ```bash
