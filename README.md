@@ -5,7 +5,7 @@
 ##  Overview
 This week introduced the basics of C programming. Topics included variables, data types, conditions, loops, and the structure of a simple C program.
 
-## 📚 Topics Covered
+##  Topics Covered
 - Variables and data types
 - Conditional logic (`if`, `else`, `else if`)
 - Loops (`for`, `while`)
