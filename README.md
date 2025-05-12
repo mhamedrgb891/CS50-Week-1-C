@@ -1,6 +1,6 @@
 # Week 1 – C Programming Foundations 
 
- Part of **CS50x 2024 – Introduction to Computer Science by Harvard University**
+ Part of **CS50x 2025 – Introduction to Computer Science by Harvard University**
 
 ##  Overview
 This week introduced the basics of C programming. Topics included variables, data types, conditions, loops, and the structure of a simple C program.
